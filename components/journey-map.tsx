@@ -91,7 +91,7 @@ export function JourneyMap() {
                   {index === 2 && (
                     <div className="mt-4 overflow-hidden rounded-lg">
                       <Image
-                        src="/peali.jpeg?height=200&width=400"
+                        src="/canada.jpg?height=200&width=400"
                         alt="Moving to Canada"
                         width={400}
                         height={200}
